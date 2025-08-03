@@ -1,0 +1,50 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+    padding: 10px 20px;
+background-color: gray;}
+nav ul{
+    display: flex;
+    gap: 30px;
+    list-style: none;
+
+}
+
+ul a{
+    text-decoration: none;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 4px solid yellow;
+}
+
+
+div{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+table{
+    width:100%;
+}
+td{
+    text-align: center; 
+}
+
+form{
+    width: 500px;
+    margin: 0 auto;
+}
+input{
+    padding: 10 px;
+    width: 70%;
+
+}
+footer{
+    text-align: center;
+    size: 30px;
+    margin: 20px
+}
